@@ -1,7 +1,7 @@
 # Parametric visualization of your project data for Revit and IFC files
 Any medium-sized construction project is a source of big data with hundreds of thousands of different elements, which in turn have tens or hundreds of different parameters or properties. Up from now to properly understand this data you can use the BIMJSON format to visualize all the information on all elements and its properties as a multidimensional point cloud.
 ### Screenshots
-![enter image description here](https://opendatabim.io/wp-content/uploads/2021/12/ezgif-4-01b7e76c8c76.gif)
+![enter image description here](https://opendatabim.io/wp-content/uploads/2021/12/bandicam-2021-12-01-20-16-46-854.gif)
 
 #  Seeing changes visually
 
