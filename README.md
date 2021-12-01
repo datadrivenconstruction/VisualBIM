@@ -13,7 +13,9 @@ In the first version of the project within the visualization on the left is the 
 Such a visual matrix of projects can be compared to a snapshot of the lung or unique DNA of a particular project or project area.
 
 Having a large base of such images (or DNA), we can by similarity (approximation), as machine algorithms do it from lung images or images of people for lidars, to determine cost or time characteristics for similar parts or whole new projects that will consist of similar pieces of old projects.
+
 ![enter image description here](https://opendatabim.io/wp-content/uploads/2021/10/Ein-bisschen-Text-hinzufugen-3.png)
+
 
 ## Built With
 
