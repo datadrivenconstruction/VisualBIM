@@ -1,6 +1,6 @@
 ###
 # App Name:  Visual BIM
-# Plugin URI: https://opendatabim.io/
+# App URI: https://opendatabim.io/
 # Description: Creation of parametric visualization of RVT and IFC files through a CSV file
 # Author: Artem Boiko
 # Version:  1.1.4
