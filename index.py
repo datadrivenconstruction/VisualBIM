@@ -2,7 +2,6 @@
 # App Name:  Visual BIM
 # App URI: https://opendatabim.io/
 # Description: Creation of parametric visualization of RVT and IFC files through a CSV file
-# Author: Artem Boiko
 # Version:  1.1.4
 # OpenDataBIM
 # This program is free software: you can redistribute it and/or modify
