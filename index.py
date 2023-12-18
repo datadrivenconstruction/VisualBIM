@@ -1,9 +1,9 @@
 ###
 # App Name:  Visual BIM
-# App URI: https://opendatabim.io/
+# App URI: https://DataDrivenConstruction.io/
 # Description: Creation of parametric visualization of RVT and IFC files through a CSV file
 # Version:  1.1.4
-# OpenDataBIM
+# DataDrivenConstruction
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
@@ -390,12 +390,12 @@ app.layout = html.Div([
             html.A(
                 html.Div(
                     children=html.Img(
-                        src="https://opendatabim.com/wp-content/uploads/2021/11/VENDOR-FREE-5.png",
+                        src="https://DataDrivenConstruction.com/wp-content/uploads/2021/11/VENDOR-FREE-5.png",
                         style={"display": "inline-block", "float": "left", "height": "55px",
                                "padding": "-6px", "margin-top": "-3px", "margin-left": "40px"}
                     ),
                 ),
-                href="https://opendatabim.com/#", target="_blank",),
+                href="https://DataDrivenConstruction.com/#", target="_blank",),
             html.H2(children="File data visualization Revit, IFC through a CSV file", style={
                 'margin-left': '45px',  'margin-top': '10px', 'font-family': 'Roboto',  'display': 'inline-block', 'font-weight': '500',  'font-size': '25px'}),
             html.A(
@@ -428,7 +428,7 @@ app.layout = html.Div([
             html.Div(
                 className="div-logo",
                 children=html.Img(
-                    className="logo", src=("https://opendatabim.io/wp-content/uploads/2021/12/GitHub-Mark-Light-64px-1.png"),
+                    className="logo", src=("https://DataDrivenConstruction.io/wp-content/uploads/2021/12/GitHub-Mark-Light-64px-1.png"),
                     style={'height': '48px',
                            'padding': '6px', 'margin-top': '3px'}
                 ), style={'display': 'inline-block', 'float': 'right'}
@@ -443,11 +443,11 @@ app.layout = html.Div([
                         children=[
                             html.A(
                                 html.Img(
-                                    src="https://opendatabim.com/wp-content/uploads/2021/11/Ein-bisschen-Text-hinzufugen-5-1.png",
+                                    src="https://DataDrivenConstruction.com/wp-content/uploads/2021/11/Ein-bisschen-Text-hinzufugen-5-1.png",
                                     style={"float": "left", "width": "100%",
                                            'vertical-align': 'middle', "padding-bottom": "30px"},
                                 ),
-                                href="https://opendatabim.com/",
+                                href="https://DataDrivenConstruction.com/",
                             ),
                         ],
                         style={"text-align": "left", },
@@ -456,7 +456,7 @@ app.layout = html.Div([
                 html.Div([
                     html.Div(
                         children=[
-                            "Any medium-sized construction project is a source of big data with hundreds of thousands of different elements, which in turn have tens or hundreds of different parameters or properties. Up from now to properly understand this data you can use the BIMJSON format to visualize all the information on all elements and its properties as a multidimensional point cloud.",
+                            "Any medium-sized construction project is a source of big data with hundreds of thousands of different elements, which in turn have tens or hundreds of different parameters or properties. Up from now to properly understand this data you can use the BIMEXCEL format to visualize all the information on all elements and its properties as a multidimensional point cloud.",
                         ],
                         style={"text-align": "left", 'font-size': '13px', },
                     ),
@@ -468,11 +468,11 @@ app.layout = html.Div([
                         " ", " ",
                         html.A(
                             html.Img(
-                                src="https://opendatabim.com/wp-content/uploads/2021/09/VENDOR-FREE-3.png",
+                                src="https://DataDrivenConstruction.com/wp-content/uploads/2021/09/VENDOR-FREE-3.png",
                                 style={"float": "right", "width": "90%",
                                        'vertical-align': 'top', "padding-bottom": "10px"},
                             ),
-                            href="https://opendatabim.com/",
+                            href="https://DataDrivenConstruction.com/",
                         ),
                     ], style={"text-align": "left", },
                 ),
